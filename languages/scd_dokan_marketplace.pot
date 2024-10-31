@@ -1,0 +1,314 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SCM - Smart Currency Manager -  Premium Variant for "
+"Dokan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-02 13:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: scd_dokan_marketplace"
+
+#: scd_free_install.php:290
+msgid " and install it manually."
+msgstr ""
+
+#: scd_free_install.php:290
+msgid " by clicking here "
+msgstr ""
+
+#: scd_license_manager_form.php:44
+msgid " days "
+msgstr ""
+
+#: scd_license_manager_form.php:53
+msgid " days."
+msgstr ""
+
+#: index.php:329
+msgid " download and install it here"
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " Please "
+msgstr ""
+
+#: scd_multivendors_renders.php:146
+msgid " Save change"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid " This variant need"
+msgstr ""
+
+#: index.php:160 index.php:162 index.php:164 index.php:166 index.php:168
+#: index.php:170 index.php:172 index.php:174
+msgid " to activate or update your license key."
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " to continue to benefit SCM features. "
+msgstr ""
+
+#: scd_license_manager_form.php:58
+msgid " update your license "
+msgstr ""
+
+#: index.php:231
+msgid ". Please wait the page will reload in "
+msgstr ""
+
+#: index.php:231
+msgid ". seconds..."
+msgstr ""
+
+#: index.php:123
+msgid "Activate New License"
+msgstr ""
+
+#: scd_multivendors_renders.php:89 templates/scd-currency-choose.php:38
+msgid "Base currency only"
+msgstr ""
+
+#: scd_free_install.php:294
+msgid "Cancel installation"
+msgstr ""
+
+#: scd_multivendors_renders.php:164
+msgid "Currency not saved please try again"
+msgstr ""
+
+#: scd_multivendors_settings.php:39
+msgid "Display product prices in vendor currency"
+msgstr ""
+
+#: index.php:212
+msgid ""
+"ERROR 404. The activation server was not found. Please contact contact us to "
+"correct."
+msgstr ""
+
+#. Author of the plugin
+msgid "GaJeLabs"
+msgstr ""
+
+#: index.php:114 index.php:160 index.php:162 index.php:164 index.php:166
+#: index.php:168 index.php:170 index.php:172 index.php:174
+msgid "here"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://gajelabs.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://gajelabs.com/"
+msgstr ""
+
+#: scd_multivendors_renders.php:175
+msgid "Information saved"
+msgstr ""
+
+#: scd_multivendors_renders.php:162
+msgid "Information saved. Your new custom currency is "
+msgstr ""
+
+#: scd_free_install.php:131
+msgid "Install SCM Free"
+msgstr ""
+
+#: scd_multivendors_settings.php:37
+msgid "License Expiry Date"
+msgstr ""
+
+#: scd_multivendors_settings.php:27
+msgid "LICENSE INFORMATION"
+msgstr ""
+
+#: scd_multivendors_settings.php:36
+msgid "License Key"
+msgstr ""
+
+#: index.php:67
+msgid "LICENSE MANAGER"
+msgstr ""
+
+#: scd_license_manager_form.php:44
+msgid "License validity time left : "
+msgstr ""
+
+#: scd_free_install.php:291
+msgid ""
+"Note that!!! it is mandatory to have the SCM Free plugin activated before "
+"using this variant of the SCM plugin."
+msgstr ""
+
+#: scd_multivendors_renders.php:177
+msgid "Option not saved please try again"
+msgstr ""
+
+#: scd_free_install.php:293
+msgid "retry to install SCM Free"
+msgstr ""
+
+#: templates/scd-currency-choose.php:95
+msgid "Save change"
+msgstr ""
+
+#: scd_free_install.php:58 scd_free_install.php:219
+msgid "SCM &rsaquo; Setup Wizard"
+msgstr ""
+
+#. Name of the plugin
+msgid "SCM - Smart Currency Manager -  Premium Variant for Dokan"
+msgstr ""
+
+#: scd_dokan_multivendor.php:75
+msgid "SCM Currency"
+msgstr ""
+
+#: scd_dokan_multivendor.php:201
+msgid "SCM Discounted Price  "
+msgstr ""
+
+#: index.php:329
+msgid ""
+"SCM Multivendors PRO require scm-smart-currency-manager before use, please "
+msgstr ""
+
+#: scd_dokan_multivendor.php:193
+msgid "SCM Price"
+msgstr ""
+
+#: templates/scd_vertical_flag.php:22 templates/scd_widget.php:22
+msgid "Select a country here..."
+msgstr ""
+
+#: scd_multivendors_renders.php:98 templates/scd-currency-choose.php:47
+msgid "Select your default currency"
+msgstr ""
+
+#: scd_multivendors_renders.php:123 templates/scd-currency-choose.php:72
+msgid "Set products price in"
+msgstr ""
+
+#: index.php:362
+msgid "Smart Currency Detector (SCM) plugin error: "
+msgstr ""
+
+#: index.php:366
+msgid "Smart Currency Detector (SCM) plugin exception: "
+msgstr ""
+
+#: scd_free_install.php:127 scd_free_install.php:288
+msgid "SMART CURRENCY MANAGER"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid "Smart Currency Manager"
+msgstr ""
+
+#: index.php:210
+msgid ""
+"Sorry the server could not activate your license key. Try again later or "
+"contact us."
+msgstr ""
+
+#: index.php:174
+msgid ""
+"The SCM-Multivendors for Dokan license key has not been activated or has "
+"expired, so you will be unable to get automatic updates or support! Click"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This wordpress / woocommerce plugin is an ALL-IN-ONE solution for online "
+"market places owners, sellers, end customers. Multivendors variant"
+msgstr ""
+
+#: scd_free_install.php:129
+msgid "to active."
+msgstr ""
+
+#: scd_dokan_multivendor.php:398 scd_dokan_multivendor.php:405
+msgid "Variation price (required)"
+msgstr ""
+
+#: index.php:114
+msgid "You can get new license key"
+msgstr ""
+
+#: index.php:172
+msgid ""
+"You have less than 1 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:170
+msgid ""
+"You have less than 2 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:168
+msgid ""
+"You have less than 3 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:166
+msgid ""
+"You have less than 4 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:164
+msgid ""
+"You have less than 5 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:162
+msgid ""
+"You have less than 6 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: index.php:160
+msgid ""
+"You have less than 7 days to enjoy for free SCM Premium for Dokan. Please "
+"activate your license to enjoy and to get automatic updates or support! Click"
+msgstr ""
+
+#: scd_multivendors_renders.php:90 templates/scd-currency-choose.php:39
+msgid "Your default currency only"
+msgstr ""
+
+#: scd_free_install.php:290
+msgid ""
+"Your installation was not successful, please check that you have a good "
+"internet connection. You can retry the installation or cancel. Before "
+"canceling the installation you can download the plugin"
+msgstr ""
+
+#: scd_license_manager_form.php:50
+msgid "Your license has expired."
+msgstr ""
+
+#: scd_license_manager_form.php:53
+msgid "Your license will expire in "
+msgstr ""
+
+#: index.php:113
+msgid ""
+"Your SCM License is not activated or has expired. Please activate a new "
+"license to get access to the plugin features and support."
+msgstr ""
